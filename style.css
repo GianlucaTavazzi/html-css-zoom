@@ -91,6 +91,7 @@ footer{
     float: left;
     text-align: center;
     font-size: 20px;
+    padding: 0 14px;
 }
 
 .sezione-centro{
@@ -99,14 +100,11 @@ footer{
     padding-left: 14px;
 }
 
-.header-1:hover, .header-2, .sezione:hover, .sezione-centro:hover, .footer-right:hover{
-    cursor: pointer;
-}
-
 .footer-left .fa-angle-up{
     padding: 14px;
 }
 
-.footer-center .sezione{
-    padding: 0 14px;
+
+.header-1:hover, .header-2, .sezione:hover, .sezione-centro:hover, .footer-right:hover{
+    cursor: pointer;
 }
